@@ -1,0 +1,5 @@
+Update-Sentinel includes the following third-party software:
+- Python: PSF License<a href="https://www.python.org/psf/license/" target="_blank" rel="noopener noreferrer nofollow"></a>
+- Nuitka: Apache 2.0<a href="https://nuitka.net/doc/license.html" target="_blank" rel="noopener noreferrer nofollow"></a>
+- PyArmor: PyArmor Pro License<a href="https://pyarmor.dashingsoft.com/license.html" target="_blank" rel="noopener noreferrer nofollow"></a>
+- [Add other libraries here, e.g., requests: MIT License]
